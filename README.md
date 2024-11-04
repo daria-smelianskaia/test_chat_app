@@ -1,3 +1,3 @@
-##### The most simple chat
+### The most simple chat
 
 FastAPI and websockets are used
